@@ -26,7 +26,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>    
 	
     <script>
-        // Pass php querystring vallye to javascript. news_source is used in app.js 
+        // Pass php querystring value to javascript. news_src is used in app.js 
         var news_src = '<?php echo $news_src; ?>';
     </script>
     <script src="js/app.js"></script>
