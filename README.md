@@ -1,12 +1,12 @@
-# Working with PHP, JavaScript, HTML and CSS 
+# PHP, JavaScript, HTML and CSS working together 
 
-# The Challenge
+## The Challenge
 The challenge for this project was to create PHP script that showcases HTML, PHP and JavaScript working together.
 
 I chose to create a project that pulls rss feed data from different news websites.
 The basic process is as follows:
 
-# How it Works
+## How it Works
 1. The newsfeed.php file loads when first visited.
 2. A querystring variable is passed to JavaScript. 
    NOTE: In no querystring is present, a default value is used.
