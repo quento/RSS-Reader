@@ -21,3 +21,6 @@ I chose to create a project that pulls rss feed data from different news website
 11. The displayNewsFeed() method is called. The data returned by the getNews.php file is passed to the function.
 12. displayNewsFeed() retrieves the different xml nodes and uses the JavaScript helper functions.
 13. The HTML formatted RSS content is then div#news container using its innerHTML property.
+
+## Demo
+Try it out here: www.quentino.org/demo/rss-reader/
